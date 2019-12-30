@@ -1,0 +1,2 @@
+# testgrafana
+simulation install grafana
